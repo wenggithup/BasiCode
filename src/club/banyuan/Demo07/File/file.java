@@ -1,10 +1,9 @@
 package club.banyuan.Demo07.File;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 
 public class file {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         /*File file=new File("c.txt");
         System.out.println(file.getAbsoluteFile());
@@ -26,6 +25,19 @@ public class file {
 
         File file=new File("/Users/edz/IdeaProjects/BasicProject");
         show01(file);
+        show();
+        show02();
+
+    }
+
+    private static void show02() throws IOException {
+        File file=new File("/Users/edz/IdeaProjects/BasicProject/wokannihen/m.txt");
+        if (file.exists()){
+            System.out.println("文件存在");
+        }else {
+            file.createNewFile();
+            System.out.println("文件不存在");
+        }
 
     }
 
@@ -45,12 +57,15 @@ public class file {
 
     }
 
-    private static void show() {
+    private static void show() throws FileNotFoundException {
         File file=new File("/Users/edz/IdeaProjects/BasicProject");
         File[] files = file.listFiles();
         for (File f : files) {
             System.out.println(f);
         }
+        File file1=new File("m.txt");
+        FileOutputStream fs=new FileOutputStream("m.txt");
+        FileInputStream is=new FileInputStream("m.txt");
 
     }
 

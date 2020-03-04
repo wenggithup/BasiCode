@@ -2,38 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff21b4ce-0abd-499a-a831-f15becf403bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo08/IO/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo08/IO/Propreties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo08/IO/filereader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo08/IO/pro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo08/IO/pro1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/Serializable/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/Serializable/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/Serializable/out.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/bufferedStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/copy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo09/IO/transform.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/DownLoad/UpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/DownLoad/UpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Functionin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/MyInerface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp/UpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp/UpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jsoup-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo11/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo11/junit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo11/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/club/banyuan/Demo12/jsoup/jsoupDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/file.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/file.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/fileinputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/fileinputStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/inout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicProject/club/banyuan/Demo07/File/inout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicProject.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,49 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/DownLoad/UpServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-163">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Functionin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/supplier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/consumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -97,37 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/MyInerface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/DownLoad/UpClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+            <state relative-caret-position="204">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,12 +43,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo07/File/file.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="60" column="64" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="64" />
+            <state relative-caret-position="425">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/MyInerface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/junit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo12/jsoup/jsoupDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/student.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -166,12 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo01/Extends/Zi.java" />
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo02/sendRed/User.java" />
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo02/sendRed/Manager.java" />
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo02/sendRed/Person.java" />
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo02/sendRed/Test.java" />
-        <option value="$PROJECT_DIR$/src/club/banyuan/Demo03/MyInterface.java" />
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo03/MyInterfaceImpl.java" />
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo03/Fu.java" />
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo03/ZI.java" />
@@ -217,6 +186,12 @@
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/supplier.java" />
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/Consumer.java" />
         <option value="$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/consumer.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo11/Stream.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp/Main.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo10/Main.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo11/junit.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo11/main.java" />
+        <option value="$PROJECT_DIR$/src/club/banyuan/Demo12/jsoup/jsoupDemo1.java" />
       </list>
     </option>
   </component>
@@ -231,8 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,96 +229,7 @@
               <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="sendRed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="UsbCase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo07" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo07" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-              <item name="Serializable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo10" type="462c0819:PsiDirectoryNode" />
-              <item name="DownLoad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="banyuan" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo10" type="462c0819:PsiDirectoryNode" />
-              <item name="FuncitonInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="jsoup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BasicProject" type="b2602c69:ProjectViewProjectNode" />
@@ -355,12 +239,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581257653290" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583313778614" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -369,6 +259,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/club/banyuan/Demo10/Tcp" />
       <recent name="$PROJECT_DIR$/src/club/banyuan/Demo09/IO" />
@@ -386,9 +280,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.consumer">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.Array" />
+  <component name="RunManager" selected="Application.jsoupDemo1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.Main" />
       <module name="BasicProject" />
       <extension name="coverage">
         <pattern>
@@ -400,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functionin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.Functionin" />
+    <configuration name="jsoupDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo12.jsoup.jsoupDemo1" />
       <module name="BasicProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.banyuan.Demo10.*" />
+          <option name="PATTERN" value="club.banyuan.Demo12.jsoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.DownLoad.UpClient" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo11.main" />
       <module name="BasicProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.banyuan.Demo10.*" />
+          <option name="PATTERN" value="club.banyuan.Demo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,39 +320,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.FuncitonInterface.consumer" />
+    <configuration name="junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BasicProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.banyuan.Demo10.FuncitonInterface.*" />
+          <option name="PATTERN" value="club.banyuan.Demo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.Demo11" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo11.junit" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo10.FuncitonInterface.supplier" />
+    <configuration name="junit.show" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BasicProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.banyuan.Demo10.FuncitonInterface.*" />
+          <option name="PATTERN" value="club.banyuan.Demo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="club.banyuan.Demo11" />
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.Demo11.junit" />
+      <option name="METHOD_NAME" value="show" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.consumer" />
-        <item itemvalue="Application.supplier" />
-        <item itemvalue="Application.Functionin" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.UpClient (1)" />
+        <item itemvalue="Application.jsoupDemo1" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.junit.show" />
+        <item itemvalue="JUnit.junit" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -477,18 +376,36 @@
       <workItem from="1580393327488" duration="2071000" />
       <workItem from="1580472476164" duration="623000" />
       <workItem from="1580733360101" duration="3197000" />
-      <workItem from="1580876876406" duration="34368000" />
+      <workItem from="1580876876406" duration="37020000" />
+      <workItem from="1581845733707" duration="832000" />
+      <workItem from="1583309240244" duration="1608000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="junit - 2020.02.10 at 22h 19m 18s.xml">
+      <configuration name="junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="junit - 2020.02.10 at 22h 19m 41s.xml">
+      <configuration name="junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="junit_show - 2020.02.10 at 22h 20m 02s.xml">
+      <configuration name="junit.show" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="junit_show - 2020.02.10 at 22h 20m 19s.xml">
+      <configuration name="junit.show" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="junit_show - 2020.02.10 at 22h 21m 40s.xml">
+      <configuration name="junit.show" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44183000" />
+    <option name="totallyTimeSpent" value="49275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1439" height="807" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26771653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27487472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -523,47 +440,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicProject.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo07/Thread/baozi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo07/Thread/MyRunable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo07/Thread/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -821,59 +697,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/DownLoad/UpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-163">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/MyInerface.java">
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Functionin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/FuncitonInterface/supplier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -881,6 +732,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/MyInerface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/junit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo11/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/student.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/club/banyuan/Demo12/jsoup/jsoupDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
